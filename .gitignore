@@ -1,0 +1,10 @@
+__pycache__
+
+*.pyc
+*.pth
+*.csv
+*.vtp
+*.ply
+*.tar
+*.zip
+*.onnx

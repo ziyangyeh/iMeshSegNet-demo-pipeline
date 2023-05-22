@@ -1,0 +1,8 @@
+cuml_cu11>=23.4.1
+numpy>=1.23.5
+open3d>=0.17.0
+pandas>=1.5.3
+pygco>=0.0.16
+scikit_learn>=1.2.2
+torch>=2.0.1+cu118
+vedo>=2023.4.4
